@@ -1,0 +1,4 @@
+[Project]
+Name=WWPP_Calculator
+Manager=KDevCMakeManager
+VersionControl=kdevgit
