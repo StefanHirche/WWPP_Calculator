@@ -1,0 +1,15 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x1e\x00W\x00W\x00P\x00P\x00_\x00C\x00a\x00l\x00c\x00u\x00l\x00a\x00t\x00o\x00r)
+
+[CMake]
+BuildDirs=/home/hirche/Develop/WWPP_Calculator/build
+CMakeDir=/usr/share/cmake-2.8/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/hirche/Develop/WWPP_Calculator/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+Extra Arguments=
+ProjectRootRelative=./
+
+[Project]
+VersionControlSupport=kdevgit

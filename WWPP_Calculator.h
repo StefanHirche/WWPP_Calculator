@@ -1,14 +1,16 @@
 #ifndef WWPP_Calculator_H
 #define WWPP_Calculator_H
 
-#include <QtGui/QMainWindow>
-
-class WWPP_Calculator : public QMainWindow
+#include <KXmlGuiWindow>
+#include <KTextEdit>
+ 
+class WWPP_Calculator : public KXmlGuiWindow
 {
-Q_OBJECT
-public:
-    WWPP_Calculator();
-    virtual ~WWPP_Calculator();
+  public:
+    WWPP_Calculator(QWidget *parent=0);
+ 
+  private:
+    KTextEdit* textArea;
 };
-
+ 
 #endif // WWPP_Calculator_H
