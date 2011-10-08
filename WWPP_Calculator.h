@@ -11,6 +11,7 @@ class WWPP_Calculator : public KXmlGuiWindow
  
   private:
     KTextEdit* textArea;
+    void setupActions();
 };
  
 #endif // WWPP_Calculator_H
